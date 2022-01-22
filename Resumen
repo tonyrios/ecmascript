@@ -1,0 +1,49 @@
+ES6:
+  Default Params
+  Template Literals
+  Multilinea
+  Destructuring
+  Spread Operator
+  LET y CONST
+  Object Params
+  Arrow Functions
+  Promises
+  Classses
+  Modules
+  Generators
+
+ES7:
+  Array.includes
+  exponentials
+
+ES8:
+  Object.entries Generate a matrix of elements (with keys and values) from an object
+  Object.values Get an array of values of an object
+  Str.padStart y Str.padEnd
+  Trailing Commmas
+  Async y awaits
+
+ES9:
+  Rest Operator
+  Spread properties
+  Promise.finally method
+  regex blocks
+
+ES10:
+  trimEnd
+  Optional catch binding
+  Object.fromEntries - convert a matrix to an object
+
+ES11:
+  Dinamic import
+  Big Numbers
+  Promise.allSettled
+  globalThis
+  null Operator
+  optional chaining
+
+ES12
+  Private methods
+  Promise.Any
+  debil reference
+  && and || left operators
